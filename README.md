@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: JavaScript, HTML e CSS
+  👨‍💻 Linguagens: JavaScript e Python
 </p>
 <p align="left">
   📨 Aqui vai meus contatos, caso queira entrar em contato comigo: ⤵️
