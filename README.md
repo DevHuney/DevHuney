@@ -6,4 +6,5 @@
   👨‍💻 Technologies: Python e Java
 </p>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHuney&show_icons=true&theme=transparent)
+
